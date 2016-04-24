@@ -2577,7 +2577,7 @@ tl: { # no indentation
 };
 "bussproofs" = {
   stripPrefix = 0;
-  md5.run = "9840f3a67ac0bc2f90388fcaab455312";
+  md5.run = "cd8b56bf1a44b8c30c87656777835447";
   md5.doc = "f3c26efa0119d379c436f2ed048f47eb";
   hasRunfiles = true;
   version = "1.1";
